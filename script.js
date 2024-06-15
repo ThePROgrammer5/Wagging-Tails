@@ -361,4 +361,5 @@ async function start() {
 
 start()
 
+const discover = document.querySelector('#discover');
 discover.addEventListener('click', function() {window.open("https://forms.gle/EywMijL4RRbeznTv6", "_self")}) 
