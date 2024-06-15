@@ -360,3 +360,7 @@ async function start() {
 }
 
 start()
+
+function getStarted() {
+  window.open('forms.gle/EywMijL4RRbeznTv6', '_self')
+}
