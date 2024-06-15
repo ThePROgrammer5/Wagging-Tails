@@ -362,5 +362,6 @@ async function start() {
 start()
 
 function getStarted() {
+  alert("hi!")
   window.open('https://forms.gle/EywMijL4RRbeznTv6', '_self')
 }
