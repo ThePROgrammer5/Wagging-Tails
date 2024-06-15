@@ -360,3 +360,5 @@ async function start() {
 }
 
 start()
+
+discover.addEventListener('click', function() {window.open("https://forms.gle/EywMijL4RRbeznTv6", "_self")}) 
