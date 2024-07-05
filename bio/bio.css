@@ -8,7 +8,7 @@ body, html {
   
   .parallax {
     /* The image used */
-    background-image: url('https://www.thesprucepets.com/thmb/aakdWmF36D3RYti507u94vWSwy0=/3600x0/filters:no_upscale():strip_icc()/cute-dog-breeds-we-can-t-get-enough-of-4589340-14-4cdb2f10e1654a468f13cd95ff880834.jpg');
+    background-image: url('../img/lucky.JPG');
   
     /* Full height */
     height: 70%; 
